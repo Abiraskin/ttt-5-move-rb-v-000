@@ -8,6 +8,7 @@ end
 puts "where would you like top go?"
 input = gets.strip
 input_to_index(input)
-move(array, index)
+def move(array, index)
+end
 def display_board(board)
 end
